@@ -1,17 +1,14 @@
 --4.1
 /*Question 1: no, conflict due to there still being a VA in records.*/
 
-
 --4.2
 /*Question 2: No, because there is no fips 80 and in order to maintain consistancy there would need to be an fips 80 in the name table.*/
 
-
-
 --4.3
-/*Question 3: No, the code is imperfect but that's to be expected with a large language model which learns from itself.*/
+/*Question 3: The code is imperfect but generally pretty strong.*/
 
-
-
+--4.5
+/*Question 3: A stromg showing from ChatGPT and a nuanced interpertation of the prompt.*/
 
 --4.6
 /*This code worked perfectly.
